@@ -9,7 +9,7 @@ chromeName.forEach(name => {
     filename: `${name}.html`
   };
 });
-//1
+//12
 module.exports = {
   lintOnSave: false,
   pages: pagesObj,
